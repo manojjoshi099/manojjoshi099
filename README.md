@@ -34,10 +34,13 @@ _Custom email-based registration system with status management._
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojjoshi099&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojjoshi099&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojjoshi099&theme=tokyonight" /> <br>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=manojjoshi099&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
