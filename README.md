@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Manoj Joshi</h1>
 
 <p align="center">
-🎓 CSIT Student | 💻 Tech Lead @CodeForChange Farwest | 🎨 Graphics Designer | 🧠 Passionate Learner
+🎓 CSIT Student | 💻 Tech Lead @CodeForChange Farwest | 🎨 Graphics Designer | 👨‍💻 full-stack web developer | 🧠 Passionate Learner
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - **Languages:** PHP, JavaScript, HTML5, CSS3, SQL  
 - **Frameworks & Tools:** Laravel, Bootstrap, Tailwind, jQuery, Git, XAMPP  
 - **Design Tools:** Photoshop, Illustrator, Figma, Canva  
-- **Other:** VS Code, GitHub, Trello  
+- **Other:** VS Code, GitHub
 
 ---
 
@@ -42,6 +42,10 @@ _Custom email-based registration system with status management._
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=manojjoshi099&layout=compact&theme=tokyonight" />
 
 </p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
