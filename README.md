@@ -28,12 +28,6 @@
 🔹 [Find Home 🏠](https://github.com/manojjoshi099/find-home)  
 _Online rental management system with advanced features._
 
-🔹 [Food Order Admin 🍔](https://github.com/manojjoshi099/restaurant-admin)  
-_Fully working admin panel to manage categories and menu items._
-
-🔹 [Expense Tracker 💰](https://github.com/manojjoshi099/expense-tracker-ui)  
-_Static UI for personal expense tracking._
-
 🔹 [Registration System with Email Verification](https://github.com/manojjoshi099/user-register-email-verification)  
 _Custom email-based registration system with status management._
 
@@ -50,9 +44,9 @@ _Custom email-based registration system with status management._
 
 ## 📫 Let's Connect
 - 🌐 Portfolio: _Coming Soon_
-- 💼 [LinkedIn](https://www.linkedin.com/in/manojjoshi099/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manojjoshi99/)
 - 📷 [Instagram](https://www.instagram.com/manojjoshi099/)
-- ✉️ Email: manojjoshi.official@gmail.com
+- ✉️ Email: joshimn94@gmail.com
 
 ---
 
