@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 About Me
-- Currently in 8th Semester of BSc CSIT  
-- Internship ongoing at an IT company  
+- Working as a Web/ laravel Developer   
 - Working on Laravel, PHP, and web projects  
 - College Represented Farwest in Code for Change (2023–2024)
 - Tech Lead in Code For Change (2024-2025)
