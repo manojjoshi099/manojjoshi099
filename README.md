@@ -23,15 +23,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-🔹 [Find Home 🏠](https://github.com/manojjoshi099/find-home)  
-_Online rental management system with advanced features._
-
-🔹 [Registration System with Email Verification](https://github.com/manojjoshi099/user-register-email-verification)  
-_Custom email-based registration system with status management._
-
----
 
 ## 📊 GitHub Stats
 
